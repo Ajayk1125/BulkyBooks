@@ -15,4 +15,7 @@ Technologies Used: ASP.NET, SQL
 
 •	Ensured high levels of data accuracy and security through comprehensive validation techniques.
 
-•	Demonstrated full-stack development capabilities by effectively integrating front-end and back-end technologies
+•	Demonstrated full-stack development capabilities by effectively integrating front-end and back-end technologies.
+
+![image](https://github.com/Ajayk1125/BulkyBooks/assets/81813982/eef7392b-d097-40bc-b6ab-1409cd97106a)
+
